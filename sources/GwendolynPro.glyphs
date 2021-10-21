@@ -136,31 +136,35 @@ capHeight = 618;
 customParameters = (
 {
 name = typoAscender;
-value = 785;
+value = 920;
 },
 {
 name = typoDescender;
-value = -641;
+value = -320;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 785;
-},
-{
-name = winDescent;
-value = 641;
-},
-{
 name = hheaAscender;
-value = 785;
+value = 920;
 },
 {
 name = hheaDescender;
-value = -641;
+value = -320;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 920;
+},
+{
+name = winDescent;
+value = 320;
 },
 {
 name = strikeoutPosition;
@@ -231,31 +235,35 @@ capHeight = 618;
 customParameters = (
 {
 name = typoAscender;
-value = 785;
+value = 920;
 },
 {
 name = typoDescender;
-value = -641;
+value = -320;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 785;
-},
-{
-name = winDescent;
-value = 641;
-},
-{
 name = hheaAscender;
-value = 785;
+value = 920;
 },
 {
 name = hheaDescender;
-value = -641;
+value = -320;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 920;
+},
+{
+name = winDescent;
+value = 320;
 },
 {
 name = strikeoutPosition;
@@ -95279,5 +95287,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
