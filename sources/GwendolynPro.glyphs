@@ -57467,16 +57467,6 @@ width = 237;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = GwendolynROB;
-},
-{
-name = postscriptFontName;
-value = GwendolynROB;
-}
-);
 interpolationWeight = 400;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -57485,22 +57475,14 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = GwendolynBoldROB;
-},
-{
-name = postscriptFontName;
-value = GwendolynBoldROB;
-}
-);
 interpolationWeight = 700;
 interpolationWidth = 5;
 instanceInterpolations = {
 "2C4661F8-41E7-4C5B-84DD-C81E3350E201" = 1;
 };
+isBold = 1;
 name = Bold;
+weightClass = Bold;
 }
 );
 kerning = {
