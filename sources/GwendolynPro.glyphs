@@ -136,7 +136,7 @@ capHeight = 618;
 customParameters = (
 {
 name = typoAscender;
-value = 920;
+value = 880;
 },
 {
 name = typoDescender;
@@ -148,7 +148,7 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 920;
+value = 880;
 },
 {
 name = hheaDescender;
@@ -160,7 +160,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 920;
+value = 880;
 },
 {
 name = winDescent;
@@ -235,7 +235,7 @@ capHeight = 618;
 customParameters = (
 {
 name = typoAscender;
-value = 920;
+value = 880;
 },
 {
 name = typoDescender;
@@ -247,7 +247,7 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 920;
+value = 880;
 },
 {
 name = hheaDescender;
@@ -259,7 +259,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 920;
+value = 880;
 },
 {
 name = winDescent;
@@ -95287,5 +95287,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
